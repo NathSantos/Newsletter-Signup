@@ -1,0 +1,27 @@
+body {
+    background-color: #DDFFBB;
+}
+
+.me-2 {
+    background-color: #FFBF9B;
+    border-radius: 100%;
+    border: 5px solid #DF7857;
+    padding: 8px;
+    display: inline-block;
+}
+
+.p-5, .py-5 {
+    background-color: #c6e4a9;
+}
+
+.fs-4 {
+    margin-top: 15px;
+}
+
+.header1 {
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: middle
+}
+
+
