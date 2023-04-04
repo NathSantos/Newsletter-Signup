@@ -3,4 +3,8 @@ Avocadoletter Signup Project is a website that represents a subscription to a ne
 
 This project was developed with the aim of testing knowledge in html, css, javascript, bootstrap, node.js and frameworks such as express, https and require.
 
-![alt text](https://raw.githubusercontent.com/NathSantos/Newsletter-Signup/main/avocadoletter.png)
+![alt text](https://raw.githubusercontent.com/NathSantos/Newsletter-Signup/main/prints/avocadoletter.png)
+
+![alt text](https://raw.githubusercontent.com/NathSantos/Newsletter-Signup/main/prints/success.png)
+
+![alt text](https://raw.githubusercontent.com/NathSantos/Newsletter-Signup/main/prints/failure.png)
